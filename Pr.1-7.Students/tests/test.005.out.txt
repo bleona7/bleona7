@@ -1,0 +1,29 @@
+Student added.
+Student added.
+Student added.
+3
+First Name: Cpiran
+Middle Name: 
+Last Name: Planeta
+Course: 0
+Specialty: 
+University: 
+eMail: 
+Phone Number: 
+First Name: Kalinka
+Middle Name: 
+Last Name: Malinka
+Course: 0
+Specialty: 
+University: FlowerUniversity
+eMail: 
+Phone Number: 
+First Name: Pesho
+Middle Name: Peshov
+Last Name: Peshov
+Course: 3
+Specialty: C#
+University: Telerik
+eMail: pesho@chuk
+Phone Number: noris
+Student added.

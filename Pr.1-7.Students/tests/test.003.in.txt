@@ -1,0 +1,7 @@
+AddStudent(Aristotel, Aristotelov)
+AddStudent(Hipokrat, Hipokratov, MedicalUniversity)
+AddStudent(Pesho, Peshov,Peshov,3, C#, Telerik, pesho@chuk,noris,223234)
+PrintNumberOfStudents
+AddStudent(Chuk, Norise, GodUniversity)
+PrintNumberOfStudents
+End.

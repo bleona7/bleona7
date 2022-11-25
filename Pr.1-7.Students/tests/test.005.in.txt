@@ -1,0 +1,7 @@
+AddStudent(Cpiran, Planeta)
+AddStudent(Kalinka, Malinka, FlowerUniversity)
+AddStudent(Pesho, Peshov,Peshov,3, C#, Telerik, pesho@chuk,noris,223234)
+PrintNumberOfStudents
+PrintStudentsInfo
+AddStudent(Chuk, Norise, GodUniversity)
+End.

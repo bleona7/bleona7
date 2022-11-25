@@ -1,0 +1,29 @@
+Student added.
+Student added.
+Student added.
+3
+First Name: Aristotel
+Middle Name: 
+Last Name: Aristotelov
+Course: 0
+Specialty: 
+University: 
+eMail: 
+Phone Number: 
+First Name: Hipokrat
+Middle Name: 
+Last Name: Hipokratov
+Course: 0
+Specialty: 
+University: MedicalUniversity
+eMail: 
+Phone Number: 
+First Name: Pesho
+Middle Name: Peshov
+Last Name: Peshov
+Course: 3
+Specialty: C#
+University: Telerik
+eMail: pesho@chuk
+Phone Number: noris
+Student added.

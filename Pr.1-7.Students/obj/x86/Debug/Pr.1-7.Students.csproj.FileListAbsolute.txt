@@ -1,0 +1,15 @@
+D:\Preojects\Visual Studio 2010\Projects\Capter14\Pr.1-7.Students\bin\Debug\Pr.1-7.Students.exe
+D:\Preojects\Visual Studio 2010\Projects\Capter14\Pr.1-7.Students\bin\Debug\Pr.1-7.Students.pdb
+D:\Preojects\Visual Studio 2010\Projects\Capter14\Pr.1-7.Students\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Preojects\Visual Studio 2010\Projects\Capter14\Pr.1-7.Students\obj\x86\Debug\Pr.1-7.Students.exe
+D:\Preojects\Visual Studio 2010\Projects\Capter14\Pr.1-7.Students\obj\x86\Debug\Pr.1-7.Students.pdb
+C:\Users\Stanislava\Desktop\team\Chapter14\Chapter14\Pr.1-7.Students\obj\x86\Debug\Pr.1-7.Students.exe
+C:\Users\Stanislava\Desktop\team\Chapter14\Chapter14\Pr.1-7.Students\obj\x86\Debug\Pr.1-7.Students.pdb
+C:\Users\poison\Desktop\Chapter14\Chapter14\Pr.1-7.Students\bin\Debug\Pr.1-7.Students.exe.config
+C:\Users\poison\Desktop\Chapter14\Chapter14\Pr.1-7.Students\bin\Debug\Pr.1-7.Students.exe
+C:\Users\poison\Desktop\Chapter14\Chapter14\Pr.1-7.Students\bin\Debug\Pr.1-7.Students.pdb
+C:\Users\poison\Desktop\Chapter14\Chapter14\Pr.1-7.Students\obj\x86\Debug\Pr.1-7.Students.csproj.AssemblyReference.cache
+C:\Users\poison\Desktop\Chapter14\Chapter14\Pr.1-7.Students\obj\x86\Debug\Pr.1-7.Students.csproj.SuggestedBindingRedirects.cache
+C:\Users\poison\Desktop\Chapter14\Chapter14\Pr.1-7.Students\obj\x86\Debug\Pr.1-7.Students.csproj.CoreCompileInputs.cache
+C:\Users\poison\Desktop\Chapter14\Chapter14\Pr.1-7.Students\obj\x86\Debug\Pr.1-7.Students.exe
+C:\Users\poison\Desktop\Chapter14\Chapter14\Pr.1-7.Students\obj\x86\Debug\Pr.1-7.Students.pdb

@@ -1,0 +1,10 @@
+Student added.
+1
+First Name: Pesho
+Middle Name: Peshov
+Last Name: Peshov
+Course: 3
+Specialty: C#
+University: Telerik
+eMail: pesho@chuk
+Phone Number: noris
